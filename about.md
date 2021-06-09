@@ -8,7 +8,6 @@ comments: false
 
 I'm a Backend Developer at <a href="https://www.gravityworksdesign.com/"> Gravity Works Design & Development</a>.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
 **Follow me**
 
